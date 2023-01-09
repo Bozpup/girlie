@@ -1,0 +1,124 @@
+body
+{
+    background-image: url(https://images.unsplash.com/photo-1502741509793-1bf00d85aeff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHN3ZWV0JTIwcmVwaXRpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-size: repeat;
+    margin: 0px;
+    text-align: center;
+   
+ 
+}
+
+
+img
+{
+    float: left;
+}
+.headies:hover
+{
+    display: flex;
+    background-color: palevioletred;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border-style: double;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+
+
+.img
+{
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.card1
+{
+    float: left;
+    background-color: blueviolet;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border-style: double;
+}
+    
+
+
+
+.card2
+{
+    float: right;
+    background-color: royalblue;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border-style: double;
+   
+}
+
+.card3
+{
+    float: left;
+    background-color: aqua;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border-style: double;
+}
+
+.card4
+{
+    float: right;
+    background-color: pink;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border-style: double;
+    
+}
+.card5
+{
+    float: left;
+    background-color: peachpuff;
+    border-radius: 25px;
+    padding: 20px;
+     margin-bottom: 20px;
+     margin-top: 50px;
+     margin-left: 20px;
+     margin-right: 20px;
+     border-radius: 20px;
+     border-style: double;
+
+
+    
+}
+footer
+{
+    margin: 50px;
+    clear: both;
+    float: left;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
